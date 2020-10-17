@@ -1,0 +1,9 @@
+latMin: 95 50 95
+latMax: 160 180 160
+lonMin: 140 120 140
+lonMax: 200 250 200
+roaMin_x10: 30
+roaMax_x10: 70
+baseWRFPath: /home/bancell/DART/lanai/models/wrf/membersV351HC/
+baseTrajPath: /home/iarsenea/trajs/trajFiles/
+baseTrajLinkPath: /home/iarsenea/trajs/trajFiles_links/
